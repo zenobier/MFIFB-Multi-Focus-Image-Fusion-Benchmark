@@ -1,5 +1,4 @@
 # MFIFB-Multi-Focus-Image-Fusion-Benchmark
-Multi-Focus Image Fusion Benchmark test
 
 Multi-focus image fusion is an important area in image processing.
 Although the development of image fusion algorithms has progressed considerably in recent years, there is still a lack of codebases and benchmarks to measure the state-of-the-art. In this paper, we present the Multifocus Image Fusion Benchmark (MFIFB) after briefly reviewing the recent advances in multifocus image fusion.
